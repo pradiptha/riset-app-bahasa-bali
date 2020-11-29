@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_kamus"
+    app:startDestination="@id/indonesiaBaliFragmentKamus">
+
+    <fragment
+        android:id="@+id/indonesiaBaliFragmentKamus"
+        android:name="com.example.pembelajaranbasabali.KamusIndonesiaBaliFragment"
+
+        tools:layout="@layout/fragment_kamus_indonesia_bali">
+
+        <action
+            android:id="@+id/action_IndonesiaBaliFragment_to_BaliIndonesiaFragment_Kamus"
+            app:destination="@id/baliIndonesiaFragmentKamus" />
+
+        <action
+            android:id="@+id/action_RepeatIndonesia_Kamus"
+            app:destination="@id/indonesiaBaliFragmentKamus" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/baliIndonesiaFragmentKamus"
+        android:name="com.example.pembelajaranbasabali.KamusBaliIndonesiaFragment"
+
+        tools:layout="@layout/fragment_kamus_bali_indonesia">
+
+        <action
+            android:id="@+id/action_BaliIndonesiaFragment_to_IndonesiaBaliFragment_Kamus"
+            app:destination="@id/indonesiaBaliFragmentKamus" />
+
+        <action
+            android:id="@+id/action_RepeatBali_Kamus"
+            app:destination="@id/baliIndonesiaFragmentKamus" />
+
+    </fragment>
+
+
+</navigation>

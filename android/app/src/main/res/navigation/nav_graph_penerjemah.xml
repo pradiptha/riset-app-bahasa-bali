@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_kamus"
+    app:startDestination="@id/indonesiaBaliFragmentPenerjemah">
+
+    <fragment
+        android:id="@+id/indonesiaBaliFragmentPenerjemah"
+        android:name="com.example.pembelajaranbasabali.PenerjemahIndonesiaBaliFragment"
+
+        tools:layout="@layout/fragment_penerjemah_indonesia_bali">
+
+        <action
+            android:id="@+id/action_IndonesiaBaliFragment_to_BaliIndonesiaFragment_Penerjemah"
+            app:destination="@id/baliIndonesiaFragmentPenerjemah" />
+
+        <action
+            android:id="@+id/action_RepeatIndonesia_Penerjemah"
+            app:destination="@id/indonesiaBaliFragmentPenerjemah" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/baliIndonesiaFragmentPenerjemah"
+        android:name="com.example.pembelajaranbasabali.PenerjemahBaliIndonesiaFragment"
+
+        tools:layout="@layout/fragment_penerjemah_bali_indonesia">
+
+        <action
+            android:id="@+id/action_BaliIndonesiaFragment_to_IndonesiaBaliFragment_Penerjemah"
+            app:destination="@id/indonesiaBaliFragmentPenerjemah" />
+
+        <action
+            android:id="@+id/action_RepeatBali_Penerjemah"
+            app:destination="@id/baliIndonesiaFragmentPenerjemah" />
+
+    </fragment>
+
+
+</navigation>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/daftarMateriKuis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:background="#AC2222"
+        android:fontFamily="@font/david_libre"
+        android:text="Daftar Materi Kuis"
+        android:textColor="#FFF"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/daftarMateriKuis">
+
+        <LinearLayout
+            android:id="@+id/linear_scroll1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".StartFragment"
+            android:orientation="vertical"
+            android:layout_marginTop="5dp">
+
+            <Button
+                android:id="@+id/judul1ButtonKuis"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="textStart"
+                android:text="1. Sintaksis Bahasa Bali"
+                android:textSize="24sp"
+                android:textColor="#FFF"
+                android:background="#1250BA"
+                android:fontFamily="@font/david_libre"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/judul11ButtonKuis"
+                android:layout_marginTop="1dp"
+                android:layout_marginLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="textStart"
+                android:text="1.1 Kelas Kata Bahasa Bali"
+                android:textSize="22sp"
+                android:textColor="#FFF"
+                android:background="#1250BA"
+                android:fontFamily="@font/david_libre"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/judul12ButtonKuis"
+                android:layout_marginTop="1dp"
+                android:layout_marginLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="textStart"
+                android:text="1.2 Frase Bahasa Bali"
+                android:textSize="22sp"
+                android:textColor="#FFF"
+                android:background="#1250BA"
+                android:fontFamily="@font/david_libre"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/judul13ButtonKuis"
+                android:layout_marginTop="1dp"
+                android:layout_marginLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="textStart"
+                android:text="1.3 Klause Bahasa Bali"
+                android:textSize="22sp"
+                android:textColor="#FFF"
+                android:background="#1250BA"
+                android:fontFamily="@font/david_libre"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/judul14ButtonKuis"
+                android:layout_marginTop="1dp"
+                android:layout_marginLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="textStart"
+                android:text="1.4 Kalimat Bahasa Bali"
+                android:textSize="22sp"
+                android:textColor="#FFF"
+                android:background="#1250BA"
+                android:fontFamily="@font/david_libre"
+                android:textStyle="bold"/>
+            <Button
+                android:id="@+id/judul2ButtonKuis"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="textStart"
+                android:text="2. Anggah-ungguhing Basa Bali"
+                android:textSize="24sp"
+                android:textColor="#FFF"
+                android:background="#1250BA"
+                android:fontFamily="@font/david_libre"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/judul21ButtonKuis"
+                android:layout_marginTop="1dp"
+                android:layout_marginLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="textStart"
+                android:text="2.1 Pengertian dan Istilah"
+                android:textSize="22sp"
+                android:textColor="#FFF"
+                android:background="#1250BA"
+                android:fontFamily="@font/david_libre"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/judul22ButtonKuis"
+                android:layout_marginTop="1dp"
+                android:layout_marginLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="textStart"
+                android:text="2.2 Pembagian Tingkatan"
+                android:textSize="22sp"
+                android:textColor="#FFF"
+                android:background="#1250BA"
+                android:fontFamily="@font/david_libre"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/judul23ButtonKuis"
+                android:layout_marginTop="1dp"
+                android:layout_marginLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="textStart"
+                android:text="2.3 Aturan Penggunaan"
+                android:textSize="22sp"
+                android:textColor="#FFF"
+                android:background="#1250BA"
+                android:fontFamily="@font/david_libre"
+                android:textStyle="bold"/>
+
+            <Button
+                android:id="@+id/judul24ButtonKuis"
+                android:layout_marginTop="1dp"
+                android:layout_marginLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="textStart"
+                android:text="2.4 Contoh Kata-Kata dan Kalimat"
+                android:textSize="22sp"
+                android:textColor="#FFF"
+                android:background="#1250BA"
+                android:fontFamily="@font/david_libre"
+                android:textStyle="bold"/>
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

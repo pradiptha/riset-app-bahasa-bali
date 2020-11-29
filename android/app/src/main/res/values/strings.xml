@@ -1,0 +1,1962 @@
+<resources>
+
+    <string name="app_name">Pembelajaran Basa Bali</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="pilih_materi">Anda memilih menu Materi</string>
+    <string name="pilih_kuis">Anda memilih menu Kuis</string>
+    <string name="pilih_kamus">Anda memilih menu Kamus</string>
+    <string name="pilih_penerjemah">Anda memilih menu Penerjemah</string>
+
+
+    <string name="materi_kelas_kata"><b><font size="24">Pengertian Kelas Kata</font></b>
+
+        \n\nKelas kata adalah penggolongan atau pengkategorian kata-kata (kosakata) berdasarkan gramatis yaitu berdasarkan sifat atau
+        perilaku dalam frase atau kalimat. Penggolongan ini berlaku untuk semua bentuk kata baik kata dasar maupun bukan kata dasar
+        (kata yang mendapat imbuhan, perulangan atau persenyawaan).
+
+        \n\nTerdapat tiga kelas kata pada kosakata Bahasa Bali yaitu:
+        \n1) Kata Nominal (N)
+        \n2) Kata Ajektival (A)
+        \n3) Kata Partikel (P)
+
+        \n\n<b><font size="24">Kata Nominal</font></b>
+
+        \n\nKata nominal yaitu semua kata yang dapat menduduki fungsi obyek.
+
+        \n\nKata nominal dibedakan menjadi tiga golongan yaitu:
+
+        \n\n1) Kata Benda (KB), misalnya: <i>peken</i> (pasar), <i>woh-wohan</i> (buah-buahan), <i>kamben</i> (kain).
+
+        \n\n2) Kata Ganti (KG), misalnya: <i>tiang</i> (saya), <i>ento</i> (itu), <i>ia</i> (dia).
+
+        \n\n3) Kata Bilangan (KBil), misalnya: <i>dadua</i> (dua), <i>selae</i> (dua puluh lima), <i>katiga</i> (ketiga),
+        <i>kadasa</i> (kesepuluh).
+
+        \n\n<b><font size="24">Kata Ajektival</font></b>
+
+        \n\nKata ajektival yaitu semua kata yang dapat menduduki fungsi predikat dan tidak menduduki fungsi obyek.
+
+        \n\nKata ajektival dapat dibedakan menjadi dua golongan yaitu:
+
+        \n\n1) Kata Sifat (KS), misalnya <i>miik</i> (harum), <i>lingsir</i> (tua), <i>barak</i> (merah), <i>tegeh</i>
+        (tinggi), <i>jemet</i> (rajin).
+
+        \n\n2) Kata Kerja (KK), misalnya: <i>ngadep</i> (menjual), <i>mireng</i> (mendengar), <i>masolah</i> (menari),
+        <i>melajah</i> (belajar), <i>jemak</i> (ambil).
+
+         \n\n<b><font size="24">Kata Partikel</font></b>
+
+        \n\nKata partikel atau kata tugas yaitu semua kata yang tidak termasuk golongankata nominal dan ajektival.
+        \nKata partikel secara berdiri sendiri tidak bisa menduduki fungsi kalimat.
+
+        \n\nKata partikel dapat dibedakan menjadi beberapa kelas kata antara lain:
+
+        \n\n1) Kata Penjelas (Ps), yaitu kata yang selalu berfungsi sebagai keterangan (atribut) dalam frase konstruksi endosentrik
+        yang atributif. Contoh kata penjelas: <i>masih</i> (juga), <i>pisan</i> (sangat), <i>dogen</i> (saja), <i>patut</i>
+        (harus), <i>para</i> (para)
+
+        \n\n2) Kata Keterangan (Kt), yaitu kata yang berfungsi sebagaiketerangan bagi suku klause. Contoh kata keterangan:
+        <i>ibi</i> (kemarin), <i>mangkin</i> (sekarang), <i>pidan</i> (dahulu)
+
+        \n\n3) Kata Penanda (Pn), yaitu kata yang berfungsi menjadi penunjuk temapt, asal, arah dalam konstruksi
+        eksosentrik yang atributif. Contoh kata penanda: <i>di</i> (di), <i>ring</i> (di), <i>saking</i> (dari), <i>uli</i> (dari).
+
+        \n\n4) Kata Perangkai (Pr) yaitu kata yang berfungsi sebagai penghubung, atau penggabung (koordinator) dalam konstruksi
+        endosentrik yang koordinatif. Contoh kata perangkai: <i>lan</i> (dan), <i>tur</i> (dan, lalu), <i>muah</i> (dan),
+        <i>teken</i> (dan, dengan), <i>wiadin</i> (atau), <i>sayan</i> (makin).
+
+        \n\n5) Kata Tanya (Tn) yaitu kata yang berfungsi membentuk kalimat tanya.Contoh kata tanya: <i>apa</i> (apa), <i>nyen</i>
+        (siapa), <i>ngudiang</i> (mengapa), <i>pidan</i> (kapan), <i>kuda</i> (berapa), <i>kenken</i> (bagaimana).
+
+        \n\n6) Kata Seu (Sr) yaitu kata yang tidak mempunyai sifat sebagai partikel yang lain. Misalnya: <i>ih, te, beh, ke, aduh, ko, ja</i>.
+
+
+    </string>
+
+    <string name="materi_frase"><b><font size="24">Pengertian Frase</font></b>
+
+        \n\nFrase adalah kelompok kata yang merupakan konstruksi sintaksis yang unsur-unsurnya terdiri atas dua kata atau lebih,
+        berada di bawah konstruksi kalimat, tetapi konstruksi itu diatas konstruksi morfologis, dan tidak boleh melebihi batas subyek dan predikat.
+
+        \n\n<b><font size="24">Contoh Penentuan Frase</font></b>
+
+        \n\nMenentukan bentuk frase dapat dilakukan dengan menggunakan prinsip unsur langsung (UL).
+        Sebagai contoh kalimat:
+        \n\t\t<i>Ia negak maderek di dampare.
+        \n\t\t(Ia duduk berjejer di bangku.)</i>.
+
+        \n\nDari contoh tersebut diperoleh bahwa kalimat tersebut mengandung dua UL yaitu: <i>Ia</i> dan <i>negak maderek di dampare</i>.
+        Selanjutnya kelompok <i>negak maderek di dampare</i> terdiri atas UL <i>negak maderek</i> dan UL <i>di dampare</i>.
+        \n\nKelompok kata <i>negak maderek</i> terdiri atas UL <i>negak</i> dan UL <i>maderek</i> dan kelompok kata <i>di dampare</i> terdiri dari
+        UL <i>di</i> dan UL <i>dampare</i>.
+
+        \n\nSehingga, kalimat di atas mengandung 3 frase (kelompok kata) yaitu:
+        \n\t\t1) <i>negak maderek di dampare
+        \n\t\t2) negak maderek
+        \n\t\t3) di dampare</i>.
+
+    </string>
+
+    <string name="materi_klause"><b><font size="24">Pengertian Klause</font></b>
+
+        \n\nKlause adalah bagian dari suatu bentuk yang diakhiri bukan oleh intonasi akhir.
+        Klause yang paling sederhana terdiri dari subyek dan predikat.
+
+        \n\nSecara umum, suatu bentuk bahasa disebut klause jika memenuhi syarat-syarat sebagai berikut:
+        \n1) diakhiri oleh intonasi bukan intonasi akhir
+        \n2) bentuk tersebut merupakan bagian dari suatu bentuk yang memiliki intonasi akhir
+        \n3) bentuk itu memiliki subyek dan predikat
+
+        \n\n<b><font size="24">Pola Dasar Klause Bahasa Bali</font></b>
+
+        \n\nTerdapat dua macam susunan pola dasar klause Bahasa Bali yaitu:
+        \n1) Subyek lebih dahulu daripada predikat (S-P)
+        \n2) Predikat lebih dahulu daripada subyek (P-S)
+
+        \n\nDitinjau dari kelas kata pembentuk subyek dan predikat, pola dasar klause Bahasa Bali ada dua yaitu:
+        \n1) Nominal - Ajektival/Ajektival-Nominal
+        \n2) Nominal - Nominal/Nominal-Nominal
+
+        \n\n<b><font size="24">Contoh Klause Bahasa Bali</font></b>
+        \n\nPerhatikan beberapa bentuk dibawah ini:
+        \n1) <i> Yen ia maan upah magae, mara meli baas lakar jakana.</i>
+        \n2) <i>Makecos macan ageng, maka sami pada takut.</i>
+
+        \n\nTerdapat dua klause ada kalimat pertama. Klause pertama adalah <i>yen ia maan upah magae (S-P)</i>,
+        dimana subyeknya adalah nominal (<i>ia</i>) dan predikatnya adalah ajektival (<i>maan</i>).
+        Klause kedua adalah <i>mara meli baas lakar jakana (S-P)</i>, dimana subyeknya adalah nominal (<i>meli baas</i>)
+        dan predikatnya adalah ajektival (<i>lakar jakana</i>).
+
+        \n\nSedangkan klause pada kalimat kedua yaitu: klause pertama, <i>makecos macan ageng (P-S)</i>, dimana predikatnya adalah
+        ajektival (<i>makecos</i>) dan subyeknya adalah nominal (<i>macan ageng</i>)  dan klause kedua, <i>maka sami pada takut (S-P)</i>,
+        dengan subyeknya nominal (<i>maka sami</i>) dan predikatnya ajektival (<i>pada takut</i>).
+
+        \n\nContoh klause dengan pola nominal-nominal adalah <i>i bapa pegawe kantor</i> (S-P), dimana subyeknya nominal (<i>i bapa</i>)
+        dan predikatnya juga nominal (<i>pegawe kantor</i>).
+
+    </string>
+
+
+    <string name="materi_kalimat"><b><font size="24">Pengertian Kalimat</font></b>
+
+        \n\nKalimat adalah suatu bentuk linguistik yang memiliki intonasi akhir. Beberapa contoh kalimat Bahasa Bali adalah:
+        \n1) <i>Kacrita jani ada peken di bencingah Majalangu</i>.
+        \n2) <i>Tan dados makidihang carikan!</i>
+        \n3) <i>Sira parab jerone?</i>
+        \n4) <i>Geginanne sai-sai naggap upah, yen ada anak nunden magae ngayahin tukang.</i>
+        \n5) <i>Melajah</i>
+
+        \n\n<b><font size="24">Jenis-jenis Kalimat</font></b>
+        \n\nMempelajari kalimat Bahasa Bali dapat ditinjau dari beberapa sudut, antara lain:
+        \n1) berdasarkan intonasi
+        \n2) berdasarkan banyaknya klause
+
+        \n\n<b><font size="22">Jenis-jenis Kalimat Berdasarkan Intonasi</font></b>
+
+        \n\nTerdapat tiga jenis kalimat Bahasa Bali berdasarkan intonasi akhir, yaitu:
+
+        \n\n1) <u>Kalimat Berita</u> adalah kalimat yang intonasinya dimulai dengan awal suara menaik, selanjutnya agak mendatar,
+        dan diikuti dengan suara merendah dan diakhiri jeda. Jeda adalah pertanda kalimat selesai.
+        Contoh kalimat berita adalah kalimat nomor 1 dan 4 pada contoh di atas.
+
+        \n\n2) <u>Kalimat Perintah</u> adalah kalimat yang intonasi akhirnya menurun deras disertai dengan tekanan yang keras
+        pada bagian yang diutamakan. Contoh kalimat perintah adalah kalimat nomor 2 pada contoh di atas.
+
+        \n\n3) <u>Kalimat Tanya</u> adalah kalimat yang intonasi akhirnya menaik. Contoh kalimat tanya adalah kalimat
+        nomor 3 pada contoh di atas.
+
+        \n\n<b><font size="22">Jenis-jenis Kalimat Berdasarkan Banyaknya Klause</font></b>
+
+        \n\nTerdapat tiga jenis kalimat Bahasa Bali berdasarkan banyaknya klause yang membentuk kalimat yaitu:
+
+        \n\n1) <u>Kalimat Tunggal</u> adalah kalimat yang hanya terdiri dari satu klause. Contoh kalimat tunggal adalah
+        kalimat nomor 1, 2, dan 3 pada contoh di atas.
+
+        \n\n2) <u>Kalimat Majemuk</u> adalah kalimat yang terdiri dua klause. Contoh kalimat majemuk adalah kalimat nomor 4
+        pada contoh di atas.
+
+        \n\n3) <u>Kalimat Minor</u> adalah kalimat yang terdiri dari satu kata atau satu frase atau rangkaian frase,
+        tetapi tidak memenuhi struktur klause. Contoh kalimat minor adalah kalimat nomor 5 pada contoh di atas.
+
+        \n\n<b><font size="24">Pola Dasar Kalimat Bahasa Bali</font></b>
+
+        \n\nPerhatikan contoh kalimat Bahasa Bali berikut:
+        \n1) <i>Made Diarsa meli nasi.</i>
+        \n2) <i>Ipun melajah Basa Bali.</i>
+        \n3) <i>Ni Sari ka sekolah.</i>
+        \n4) <i>Naskah punika sampun ical.</i>
+        \n5) <i>Jadma punika tamiu saking Belanda</i>
+        \n6) <i> I Meme di paon.</i>
+        \n7) <i>Makaad!</i>
+        \n8) <i>Liunan krebek, kuangan ujan.</i>
+        \n9) <i>Mai ja!</i>
+        \n10) <i>Nyen?</i>
+        \n11) <i>Kija?</i>
+        \n12) <i>Sayan mekelo, sayan nguredang.</i>
+
+        \n\nTerdapat tiga pola dasar kalimat Bahasa Bali yaitu:
+
+        \n\n1) Pola kalimat dengan tipe <u>KB-KB</u> (kata benda - kata benda) seperti pada contoh kalimat nomor 5,
+        <u>KB-KS</u> (kata benda - kata sifat) seperti pada contoh kalimat nomor 4, dan <u>KB-KK</u> (kata benda - kata kerja)
+        seperti pada contoh kalimat nomor 1 dan 2.
+
+        \n\n2) Pola kalimat dengan tipe <u>KB-Fr</u> (kata benda - Frase) atau <u>Pn-KB</u> (Kata penanda - Kata Benda),
+        seperti pada contoh kalimat nomor 3 dan 6.
+
+        \n\n3) Pola kalimat minor, terdiri dari tipe I (<u>Kalimat Perintah</u>) seperti pada contoh kalimat nomor 7 dan 9,
+        tipe II (<u>Kalimat Tanya</u>) seperti pada contoh kalimat no 10 dan 11, dan tipe III (<u>Kalimat Aforistis</u>,
+        semacam dalil atau semboyan) seperti pada contoh kalimat nomor 8 dan 12.
+
+        \n\n<b><font size="24">Kalimat Majemuk Setara</font></b>
+
+        \n\nKalimat majemuk setara adalah kalimat majemuk yang susunan unsur-unsurnya bukan merupakan pengganti dari unsur yang lain,
+        sehingga kedudukan tiap-tiap klause setara.
+
+        \n\n Contoh kalimat majemuk setara adalah:
+        \n1) <i>I Bapa ka tegal, I Meme nyakan di paon.</i>
+        \n2) <i>Murid-muride suba mulih, nanging guru-gurune nu di sekolah.</i>
+
+        \n\n<b><font size="24">Kalimat Majemuk Bertingkat</font></b>
+
+        \n\nKalimat majemuk bertingkat adalah kalimat majemuk yang salah satu klause pembentuknya adalah sebagai pengganti
+        salah satu unsur dari kalimat tunggal.
+
+        \n\nContoh kalimat majemuk bertingkat adalah:
+        \n1) <i>Jadma sane makta surat punika rauh, duk titiang budal.</i>
+        \n2) <i>Panak tiange sane nomer telu madan Putra Sastra, jani suba kelas dua.</i>
+
+        \n\nKalimat pertama terdiri dari dua klause yaitu:  <i>Jadma sane makta surat punika rauh</i> dan
+        <i>duk titiang budal</i>. Klause yang kedua bisa diganti misalnya dengan kata <i>dibi</i>, sehingga
+        menjadi kalimat tunggal.
+
+        \n\n Kalimat kedua juga terdiri dari dua klause yaitu: <i>Panak tiange sane nomer telu madan Putra Sastra</i>
+        dan <i>jani suba kelas dua</i>. Klause yang kedua bisa mengantikan salah satu unsur kalimat tunggal klause pertama
+        yaitu frase <i>madan Putra Sastra</i>.
+
+    </string>
+
+    <string name="materi_sor_singgih"><b><font size="24">Pengertian Anggah-Ungguhing Basa Bali</font></b>
+
+        \n\n<b><font size="24">Pemberian Istilah Tingkatan Bahasa Bali</font></b>
+
+
+    </string>
+
+    <string name="materi_tingkatan"><b><font size="24">Pembagian Tingkatan Bahasa Bali</font></b>
+
+        \n\n<b><font size="24">Tingkatan Kata-Kata (<i>Kruna)</i>) Bahasa Bali</font></b>
+
+
+    </string>
+
+    <string name="materi_aturan_penggunaan"><b><font size="24">Aturan</font></b>
+
+        \n\n<b><font size="24">Tradisional</font></b>
+
+
+        \n\n<b><font size="24">Modern</font></b>
+
+
+    </string>
+
+
+    <string name="materi_contoh"><b><font size="24">Contoh Kalimat</font></b>
+
+        \n\n<b><font size="24">Alus Sor</font></b>
+
+
+        \n\n<b><font size="24">Alus Singgih</font></b>
+
+
+        \n\n<b><font size="24">Alus Madya</font></b>
+
+
+        \n\n<b><font size="24">Alus Mider</font></b>
+
+
+    </string>
+
+    <string name="soal1_kelas_kata">
+        Soal 1 materi kelas kata
+    </string>
+
+    <string name="jawab1_soal1_kelas_kata">
+        Jawaban 1 soal 1 materi kelas kata
+    </string>
+
+    <string name="jawab2_soal1_kelas_kata">
+        Jawaban 2 soal 1 materi kelas kata
+    </string>
+
+    <string name="jawab3_soal1_kelas_kata">
+        Jawaban 3 soal 1 materi kelas kata
+    </string>
+
+    <string name="jawab4_soal1_kelas_kata">
+        Jawaban 4 soal 1 materi kelas kata
+    </string>
+
+
+    <string name="soal2_kelas_kata">
+        Soal 2 materi kelas kata
+    </string>
+
+    <string name="jawab1_soal2_kelas_kata">
+        Jawaban 1 soal 2 materi kelas kata
+    </string>
+
+    <string name="jawab2_soal2_kelas_kata">
+        Jawaban 2 soal 2 materi kelas kata
+    </string>
+
+    <string name="jawab3_soal2_kelas_kata">
+        Jawaban 3 soal 2 materi kelas kata
+    </string>
+
+    <string name="jawab4_soal2_kelas_kata">
+        Jawaban 4 soal 2 materi kelas kata
+    </string>
+
+
+    <string name="soal3_kelas_kata">
+        Soal 3 materi kelas kata
+    </string>
+
+    <string name="jawab1_soal3_kelas_kata">
+        Jawaban 1 soal 3 materi kelas kata
+    </string>
+
+    <string name="jawab2_soal3_kelas_kata">
+        Jawaban 2 soal 3 materi kelas kata
+    </string>
+
+    <string name="jawab3_soal3_kelas_kata">
+        Jawaban 3 soal 3 materi kelas kata
+    </string>
+
+    <string name="jawab4_soal3_kelas_kata">
+        Jawaban 4 soal 3 materi kelas kata
+    </string>
+
+
+    <string name="soal4_kelas_kata">
+        Soal 4 materi kelas kata
+    </string>
+
+    <string name="jawab1_soal4_kelas_kata">
+        Jawaban 1 soal 4 materi kelas kata
+    </string>
+
+    <string name="jawab2_soal4_kelas_kata">
+        Jawaban 2 soal 4 materi kelas kata
+    </string>
+
+    <string name="jawab3_soal4_kelas_kata">
+        Jawaban 3 soal 4 materi kelas kata
+    </string>
+
+    <string name="jawab4_soal4_kelas_kata">
+        Jawaban 4 soal 4 materi kelas kata
+    </string>
+
+
+    <string name="soal5_kelas_kata">
+        Soal 5 materi kelas kata
+    </string>
+
+    <string name="jawab1_soal5_kelas_kata">
+        Jawaban 1 soal 5 materi kelas kata
+    </string>
+
+    <string name="jawab2_soal5_kelas_kata">
+        Jawaban 2 soal 5 materi kelas kata
+    </string>
+
+    <string name="jawab3_soal5_kelas_kata">
+        Jawaban 3 soal 5 materi kelas kata
+    </string>
+
+    <string name="jawab4_soal5_kelas_kata">
+        Jawaban 4 soal 5 materi kelas kata
+    </string>
+
+
+    <string name="soal6_kelas_kata">
+        Soal 6 materi kelas kata
+    </string>
+
+    <string name="jawab1_soal6_kelas_kata">
+        Jawaban 1 soal 6 materi kelas kata
+    </string>
+
+    <string name="jawab2_soal6_kelas_kata">
+        Jawaban 2 soal 6 materi kelas kata
+    </string>
+
+    <string name="jawab3_soal6_kelas_kata">
+        Jawaban 3 soal 6 materi kelas kata
+    </string>
+
+    <string name="jawab4_soal6_kelas_kata">
+        Jawaban 4 soal 6 materi kelas kata
+    </string>
+
+
+    <string name="soal7_kelas_kata">
+        Soal 7 materi kelas kata
+    </string>
+
+    <string name="jawab1_soal7_kelas_kata">
+        Jawaban 1 soal 7 materi kelas kata
+    </string>
+
+    <string name="jawab2_soal7_kelas_kata">
+        Jawaban 2 soal 7 materi kelas kata
+    </string>
+
+    <string name="jawab3_soal7_kelas_kata">
+        Jawaban 3 soal 7 materi kelas kata
+    </string>
+
+    <string name="jawab4_soal7_kelas_kata">
+        Jawaban 4 soal 8 materi kelas kata
+    </string>
+
+
+    <string name="soal8_kelas_kata">
+        Soal 8 materi kelas kata
+    </string>
+
+    <string name="jawab1_soal8_kelas_kata">
+        Jawaban 1 soal 8 materi kelas kata
+    </string>
+
+    <string name="jawab2_soal8_kelas_kata">
+        Jawaban 2 soal 8 materi kelas kata
+    </string>
+
+    <string name="jawab3_soal8_kelas_kata">
+        Jawaban 3 soal 8 materi kelas kata
+    </string>
+
+    <string name="jawab4_soal8_kelas_kata">
+        Jawaban 4 soal 8 materi kelas kata
+    </string>
+
+
+    <string name="soal9_kelas_kata">
+        Soal 9 materi kelas kata
+    </string>
+
+    <string name="jawab1_soal9_kelas_kata">
+        Jawaban 1 soal 9 materi kelas kata
+    </string>
+
+    <string name="jawab2_soal9_kelas_kata">
+        Jawaban 2 soal 9 materi kelas kata
+    </string>
+
+    <string name="jawab3_soal9_kelas_kata">
+        Jawaban 3 soal 9 materi kelas kata
+    </string>
+
+    <string name="jawab4_soal9_kelas_kata">
+        Jawaban 4 soal 9 materi kelas kata
+    </string>
+
+
+    <string name="soal10_kelas_kata">
+        Soal 10 materi kelas kata
+    </string>
+
+    <string name="jawab1_soal10_kelas_kata">
+        Jawaban 1 soal 10 materi kelas kata
+    </string>
+
+    <string name="jawab2_soal10_kelas_kata">
+        Jawaban 2 soal 10 materi kelas kata
+    </string>
+
+    <string name="jawab3_soal10_kelas_kata">
+        Jawaban 3 soal 10 materi kelas kata
+    </string>
+
+    <string name="jawab4_soal10_kelas_kata">
+        Jawaban 4 soal 10 materi kelas kata
+    </string>
+
+
+    <string name="soal1_frase">
+        Soal 1 materi frase
+    </string>
+
+    <string name="jawab1_soal1_frase">
+        Jawaban 1 soal 1 materi frase
+    </string>
+
+    <string name="jawab2_soal1_frase">
+        Jawaban 2 soal 1 materi frase
+    </string>
+
+    <string name="jawab3_soal1_frase">
+        Jawaban 3 soal 1 materi frase
+    </string>
+
+    <string name="jawab4_soal1_frase">
+        Jawaban 4 soal 1 materi frase
+    </string>
+
+
+    <string name="soal2_frase">
+        Soal 2 materi frase
+    </string>
+
+    <string name="jawab1_soal2_frase">
+        Jawaban 1 soal 2 materi frase
+    </string>
+
+    <string name="jawab2_soal2_frase">
+        Jawaban 2 soal 2 materi frase
+    </string>
+
+    <string name="jawab3_soal2_frase">
+        Jawaban 3 soal 2 materi frase
+    </string>
+
+    <string name="jawab4_soal2_frase">
+        Jawaban 4 soal 2 materi frase
+    </string>
+
+
+    <string name="soal3_frase">
+        Soal 3 materi frase
+    </string>
+
+    <string name="jawab1_soal3_frase">
+        Jawaban 1 soal 3 materi frase
+    </string>
+
+    <string name="jawab2_soal3_frase">
+        Jawaban 2 soal 3 materi frase
+    </string>
+
+    <string name="jawab3_soal3_frase">
+        Jawaban 3 soal 3 materi frase
+    </string>
+
+    <string name="jawab4_soal3_frase">
+        Jawaban 4 soal 3 materi frase
+    </string>
+
+
+    <string name="soal4_frase">
+        Soal 4 materi frase
+    </string>
+
+    <string name="jawab1_soal4_frase">
+        Jawaban 1 soal 4 materi frase
+    </string>
+
+    <string name="jawab2_soal4_frase">
+        Jawaban 2 soal 4 materi frase
+    </string>
+
+    <string name="jawab3_soal4_frase">
+        Jawaban 3 soal 4 materi frase
+    </string>
+
+    <string name="jawab4_soal4_frase">
+        Jawaban 4 soal 4 materi frase
+    </string>
+
+
+    <string name="soal5_frase">
+        Soal 5 materi frase
+    </string>
+
+    <string name="jawab1_soal5_frase">
+        Jawaban 1 soal 5 materi frase
+    </string>
+
+    <string name="jawab2_soal5_frase">
+        Jawaban 2 soal 5 materi frase
+    </string>
+
+    <string name="jawab3_soal5_frase">
+        Jawaban 3 soal 5 materi frase
+    </string>
+
+    <string name="jawab4_soal5_frase">
+        Jawaban 4 soal 5 materi frase
+    </string>
+
+
+    <string name="soal6_frase">
+        Soal 6 materi frase
+    </string>
+
+    <string name="jawab1_soal6_frase">
+        Jawaban 1 soal 6 materi frase
+    </string>
+
+    <string name="jawab2_soal6_frase">
+        Jawaban 2 soal 6 materi frase
+    </string>
+
+    <string name="jawab3_soal6_frase">
+        Jawaban 3 soal 6 materi frase
+    </string>
+
+    <string name="jawab4_soal6_frase">
+        Jawaban 4 soal 6 materi frase
+    </string>
+
+
+    <string name="soal7_frase">
+        Soal 7 materi frase
+    </string>
+
+    <string name="jawab1_soal7_frase">
+        Jawaban 1 soal 7 materi frase
+    </string>
+
+    <string name="jawab2_soal7_frase">
+        Jawaban 2 soal 7 materi frase
+    </string>
+
+    <string name="jawab3_soal7_frase">
+        Jawaban 3 soal 7 materi frase
+    </string>
+
+    <string name="jawab4_soal7_frase">
+        Jawaban 4 soal 8 materi frase
+    </string>
+
+
+    <string name="soal8_frase">
+        Soal 8 materi frase
+    </string>
+
+    <string name="jawab1_soal8_frase">
+        Jawaban 1 soal 8 materi frase
+    </string>
+
+    <string name="jawab2_soal8_frase">
+        Jawaban 2 soal 8 materi frase
+    </string>
+
+    <string name="jawab3_soal8_frase">
+        Jawaban 3 soal 8 materi frase
+    </string>
+
+    <string name="jawab4_soal8_frase">
+        Jawaban 4 soal 8 materi frase
+    </string>
+
+
+    <string name="soal9_frase">
+        Soal 9 materi frase
+    </string>
+
+    <string name="jawab1_soal9_frase">
+        Jawaban 1 soal 9 materi frase
+    </string>
+
+    <string name="jawab2_soal9_frase">
+        Jawaban 2 soal 9 materi frase
+    </string>
+
+    <string name="jawab3_soal9_frase">
+        Jawaban 3 soal 9 materi frase
+    </string>
+
+    <string name="jawab4_soal9_frase">
+        Jawaban 4 soal 9 materi frase
+    </string>
+
+
+    <string name="soal10_frase">
+        Soal 10 materi frase
+    </string>
+
+    <string name="jawab1_soal10_frase">
+        Jawaban 1 soal 10 materi frase
+    </string>
+
+    <string name="jawab2_soal10_frase">
+        Jawaban 2 soal 10 materi frase
+    </string>
+
+    <string name="jawab3_soal10_frase">
+        Jawaban 3 soal 10 materi frase
+    </string>
+
+    <string name="jawab4_soal10_frase">
+        Jawaban 4 soal 10 materi frase
+    </string>
+
+
+    <string name="soal1_klause">
+        Soal 1 materi klause
+    </string>
+
+    <string name="jawab1_soal1_klause">
+        Jawaban 1 soal 1 materi klause
+    </string>
+
+    <string name="jawab2_soal1_klause">
+        Jawaban 2 soal 1 materi klause
+    </string>
+
+    <string name="jawab3_soal1_klause">
+        Jawaban 3 soal 1 materi klause
+    </string>
+
+    <string name="jawab4_soal1_klause">
+        Jawaban 4 soal 1 materi klause
+    </string>
+
+
+    <string name="soal2_klause">
+        Soal 2 materi klause
+    </string>
+
+    <string name="jawab1_soal2_klause">
+        Jawaban 1 soal 2 materi klause
+    </string>
+
+    <string name="jawab2_soal2_klause">
+        Jawaban 2 soal 2 materi klause
+    </string>
+
+    <string name="jawab3_soal2_klause">
+        Jawaban 3 soal 2 materi klause
+    </string>
+
+    <string name="jawab4_soal2_klause">
+        Jawaban 4 soal 2 materi klause
+    </string>
+
+
+    <string name="soal3_klause">
+        Soal 3 materi klause
+    </string>
+
+    <string name="jawab1_soal3_klause">
+        Jawaban 1 soal 3 materi klause
+    </string>
+
+    <string name="jawab2_soal3_klause">
+        Jawaban 2 soal 3 materi klause
+    </string>
+
+    <string name="jawab3_soal3_klause">
+        Jawaban 3 soal 3 materi klause
+    </string>
+
+    <string name="jawab4_soal3_klause">
+        Jawaban 4 soal 3 materi klause
+    </string>
+
+
+    <string name="soal4_klause">
+        Soal 4 materi klause
+    </string>
+
+    <string name="jawab1_soal4_klause">
+        Jawaban 1 soal 4 materi klause
+    </string>
+
+    <string name="jawab2_soal4_klause">
+        Jawaban 2 soal 4 materi klause
+    </string>
+
+    <string name="jawab3_soal4_klause">
+        Jawaban 3 soal 4 materi klause
+    </string>
+
+    <string name="jawab4_soal4_klause">
+        Jawaban 4 soal 4 materi klause
+    </string>
+
+
+    <string name="soal5_klause">
+        Soal 5 materi klause
+    </string>
+
+    <string name="jawab1_soal5_klause">
+        Jawaban 1 soal 5 materi klause
+    </string>
+
+    <string name="jawab2_soal5_klause">
+        Jawaban 2 soal 5 materi klause
+    </string>
+
+    <string name="jawab3_soal5_klause">
+        Jawaban 3 soal 5 materi klause
+    </string>
+
+    <string name="jawab4_soal5_klause">
+        Jawaban 4 soal 5 materi klause
+    </string>
+
+
+    <string name="soal6_klause">
+        Soal 6 materi klause
+    </string>
+
+    <string name="jawab1_soal6_klause">
+        Jawaban 1 soal 6 materi klause
+    </string>
+
+    <string name="jawab2_soal6_klause">
+        Jawaban 2 soal 6 materi klause
+    </string>
+
+    <string name="jawab3_soal6_klause">
+        Jawaban 3 soal 6 materi klause
+    </string>
+
+    <string name="jawab4_soal6_klause">
+        Jawaban 4 soal 6 materi klause
+    </string>
+
+
+    <string name="soal7_klause">
+        Soal 7 materi klause
+    </string>
+
+    <string name="jawab1_soal7_klause">
+        Jawaban 1 soal 7 materi klause
+    </string>
+
+    <string name="jawab2_soal7_klause">
+        Jawaban 2 soal 7 materi klause
+    </string>
+
+    <string name="jawab3_soal7_klause">
+        Jawaban 3 soal 7 materi klause
+    </string>
+
+    <string name="jawab4_soal7_klause">
+        Jawaban 4 soal 8 materi klause
+    </string>
+
+
+    <string name="soal8_klause">
+        Soal 8 materi klause
+    </string>
+
+    <string name="jawab1_soal8_klause">
+        Jawaban 1 soal 8 materi klause
+    </string>
+
+    <string name="jawab2_soal8_klause">
+        Jawaban 2 soal 8 materi klause
+    </string>
+
+    <string name="jawab3_soal8_klause">
+        Jawaban 3 soal 8 materi klause
+    </string>
+
+    <string name="jawab4_soal8_klause">
+        Jawaban 4 soal 8 materi klause
+    </string>
+
+
+    <string name="soal9_klause">
+        Soal 9 materi klause
+    </string>
+
+    <string name="jawab1_soal9_klause">
+        Jawaban 1 soal 9 materi klause
+    </string>
+
+    <string name="jawab2_soal9_klause">
+        Jawaban 2 soal 9 materi klause
+    </string>
+
+    <string name="jawab3_soal9_klause">
+        Jawaban 3 soal 9 materi klause
+    </string>
+
+    <string name="jawab4_soal9_klause">
+        Jawaban 4 soal 9 materi klause
+    </string>
+
+
+    <string name="soal10_klause">
+        Soal 10 materi klause
+    </string>
+
+    <string name="jawab1_soal10_klause">
+        Jawaban 1 soal 10 materi klause
+    </string>
+
+    <string name="jawab2_soal10_klause">
+        Jawaban 2 soal 10 materi klause
+    </string>
+
+    <string name="jawab3_soal10_klause">
+        Jawaban 3 soal 10 materi klause
+    </string>
+
+    <string name="jawab4_soal10_klause">
+        Jawaban 4 soal 10 materi klause
+    </string>
+
+
+    <string name="soal1_kalimat">
+        Soal 1 materi kalimat
+    </string>
+
+    <string name="jawab1_soal1_kalimat">
+        Jawaban 1 soal 1 materi kalimat
+    </string>
+
+    <string name="jawab2_soal1_kalimat">
+        Jawaban 2 soal 1 materi kalimat
+    </string>
+
+    <string name="jawab3_soal1_kalimat">
+        Jawaban 3 soal 1 materi kalimat
+    </string>
+
+    <string name="jawab4_soal1_kalimat">
+        Jawaban 4 soal 1 materi kalimat
+    </string>
+
+
+    <string name="soal2_kalimat">
+        Soal 2 materi kalimat
+    </string>
+
+    <string name="jawab1_soal2_kalimat">
+        Jawaban 1 soal 2 materi kalimat
+    </string>
+
+    <string name="jawab2_soal2_kalimat">
+        Jawaban 2 soal 2 materi kalimat
+    </string>
+
+    <string name="jawab3_soal2_kalimat">
+        Jawaban 3 soal 2 materi kalimat
+    </string>
+
+    <string name="jawab4_soal2_kalimat">
+        Jawaban 4 soal 2 materi kalimat
+    </string>
+
+
+    <string name="soal3_kalimat">
+        Soal 3 materi kalimat
+    </string>
+
+    <string name="jawab1_soal3_kalimat">
+        Jawaban 1 soal 3 materi kalimat
+    </string>
+
+    <string name="jawab2_soal3_kalimat">
+        Jawaban 2 soal 3 materi kalimat
+    </string>
+
+    <string name="jawab3_soal3_kalimat">
+        Jawaban 3 soal 3 materi kalimat
+    </string>
+
+    <string name="jawab4_soal3_kalimat">
+        Jawaban 4 soal 3 materi kalimat
+    </string>
+
+
+    <string name="soal4_kalimat">
+        Soal 4 materi kalimat
+    </string>
+
+    <string name="jawab1_soal4_kalimat">
+        Jawaban 1 soal 4 materi kalimat
+    </string>
+
+    <string name="jawab2_soal4_kalimat">
+        Jawaban 2 soal 4 materi kalimat
+    </string>
+
+    <string name="jawab3_soal4_kalimat">
+        Jawaban 3 soal 4 materi kalimat
+    </string>
+
+    <string name="jawab4_soal4_kalimat">
+        Jawaban 4 soal 4 materi kalimat
+    </string>
+
+
+    <string name="soal5_kalimat">
+        Soal 5 materi kalimat
+    </string>
+
+    <string name="jawab1_soal5_kalimat">
+        Jawaban 1 soal 5 materi kalimat
+    </string>
+
+    <string name="jawab2_soal5_kalimat">
+        Jawaban 2 soal 5 materi kalimat
+    </string>
+
+    <string name="jawab3_soal5_kalimat">
+        Jawaban 3 soal 5 materi kalimat
+    </string>
+
+    <string name="jawab4_soal5_kalimat">
+        Jawaban 4 soal 5 materi kalimat
+    </string>
+
+
+    <string name="soal6_kalimat">
+        Soal 6 materi kalimat
+    </string>
+
+    <string name="jawab1_soal6_kalimat">
+        Jawaban 1 soal 6 materi kalimat
+    </string>
+
+    <string name="jawab2_soal6_kalimat">
+        Jawaban 2 soal 6 materi kalimat
+    </string>
+
+    <string name="jawab3_soal6_kalimat">
+        Jawaban 3 soal 6 materi kalimat
+    </string>
+
+    <string name="jawab4_soal6_kalimat">
+        Jawaban 4 soal 6 materi kalimat
+    </string>
+
+
+    <string name="soal7_kalimat">
+        Soal 7 materi kalimat
+    </string>
+
+    <string name="jawab1_soal7_kalimat">
+        Jawaban 1 soal 7 materi kalimat
+    </string>
+
+    <string name="jawab2_soal7_kalimat">
+        Jawaban 2 soal 7 materi kalimat
+    </string>
+
+    <string name="jawab3_soal7_kalimat">
+        Jawaban 3 soal 7 materi kalimat
+    </string>
+
+    <string name="jawab4_soal7_kalimat">
+        Jawaban 4 soal 8 materi kalimat
+    </string>
+
+
+    <string name="soal8_kalimat">
+        Soal 8 materi kalimat
+    </string>
+
+    <string name="jawab1_soal8_kalimat">
+        Jawaban 1 soal 8 materi kalimat
+    </string>
+
+    <string name="jawab2_soal8_kalimat">
+        Jawaban 2 soal 8 materi kalimat
+    </string>
+
+    <string name="jawab3_soal8_kalimat">
+        Jawaban 3 soal 8 materi kalimat
+    </string>
+
+    <string name="jawab4_soal8_kalimat">
+        Jawaban 4 soal 8 materi kalimat
+    </string>
+
+
+    <string name="soal9_kalimat">
+        Soal 9 materi kalimat
+    </string>
+
+    <string name="jawab1_soal9_kalimat">
+        Jawaban 1 soal 9 materi kalimat
+    </string>
+
+    <string name="jawab2_soal9_kalimat">
+        Jawaban 2 soal 9 materi kalimat
+    </string>
+
+    <string name="jawab3_soal9_kalimat">
+        Jawaban 3 soal 9 materi kalimat
+    </string>
+
+    <string name="jawab4_soal9_kalimat">
+        Jawaban 4 soal 9 materi kalimat
+    </string>
+
+
+    <string name="soal10_kalimat">
+        Soal 10 materi kalimat
+    </string>
+
+    <string name="jawab1_soal10_kalimat">
+        Jawaban 1 soal 10 materi kalimat
+    </string>
+
+    <string name="jawab2_soal10_kalimat">
+        Jawaban 2 soal 10 materi kalimat
+    </string>
+
+    <string name="jawab3_soal10_kalimat">
+        Jawaban 3 soal 10 materi kalimat
+    </string>
+
+    <string name="jawab4_soal10_kalimat">
+        Jawaban 4 soal 10 materi kalimat
+    </string>
+
+
+    <string name="soal1_sor_singgih">
+        Soal 1 materi sor singgih
+    </string>
+
+    <string name="jawab1_soal1_sor_singgih">
+        Jawaban 1 soal 1 materi sor singgih
+    </string>
+
+    <string name="jawab2_soal1_sor_singgih">
+        Jawaban 2 soal 1 materi sor singgih
+    </string>
+
+    <string name="jawab3_soal1_sor_singgih">
+        Jawaban 3 soal 1 materi sor singgih
+    </string>
+
+    <string name="jawab4_soal1_sor_singgih">
+        Jawaban 4 soal 1 materi sor singgih
+    </string>
+
+
+    <string name="soal2_sor_singgih">
+        Soal 2 materi sor singgih
+    </string>
+
+    <string name="jawab1_soal2_sor_singgih">
+        Jawaban 1 soal 2 materi sor singgih
+    </string>
+
+    <string name="jawab2_soal2_sor_singgih">
+        Jawaban 2 soal 2 materi sor singgih
+    </string>
+
+    <string name="jawab3_soal2_sor_singgih">
+        Jawaban 3 soal 2 materi sor singgih
+    </string>
+
+    <string name="jawab4_soal2_sor_singgih">
+        Jawaban 4 soal 2 materi sor singgih
+    </string>
+
+
+    <string name="soal3_sor_singgih">
+        Soal 3 materi sor singgih
+    </string>
+
+    <string name="jawab1_soal3_sor_singgih">
+        Jawaban 1 soal 3 materi sor singgih
+    </string>
+
+    <string name="jawab2_soal3_sor_singgih">
+        Jawaban 2 soal 3 materi sor singgih
+    </string>
+
+    <string name="jawab3_soal3_sor_singgih">
+        Jawaban 3 soal 3 materi sor singgih
+    </string>
+
+    <string name="jawab4_soal3_sor_singgih">
+        Jawaban 4 soal 3 materi sor singgih
+    </string>
+
+
+    <string name="soal4_sor_singgih">
+        Soal 4 materi sor singgih
+    </string>
+
+    <string name="jawab1_soal4_sor_singgih">
+        Jawaban 1 soal 4 materi sor singgih
+    </string>
+
+    <string name="jawab2_soal4_sor_singgih">
+        Jawaban 2 soal 4 materi sor singgih
+    </string>
+
+    <string name="jawab3_soal4_sor_singgih">
+        Jawaban 3 soal 4 materi sor singgih
+    </string>
+
+    <string name="jawab4_soal4_sor_singgih">
+        Jawaban 4 soal 4 materi sor singgih
+    </string>
+
+
+    <string name="soal5_sor_singgih">
+        Soal 5 materi sor singgih
+    </string>
+
+    <string name="jawab1_soal5_sor_singgih">
+        Jawaban 1 soal 5 materi sor singgih
+    </string>
+
+    <string name="jawab2_soal5_sor_singgih">
+        Jawaban 2 soal 5 materi sor singgih
+    </string>
+
+    <string name="jawab3_soal5_sor_singgih">
+        Jawaban 3 soal 5 materi sor singgih
+    </string>
+
+    <string name="jawab4_soal5_sor_singgih">
+        Jawaban 4 soal 5 materi sor singgih
+    </string>
+
+
+    <string name="soal6_sor_singgih">
+        Soal 6 materi sor singgih
+    </string>
+
+    <string name="jawab1_soal6_sor_singgih">
+        Jawaban 1 soal 6 materi sor singgih
+    </string>
+
+    <string name="jawab2_soal6_sor_singgih">
+        Jawaban 2 soal 6 materi sor singgih
+    </string>
+
+    <string name="jawab3_soal6_sor_singgih">
+        Jawaban 3 soal 6 materi sor singgih
+    </string>
+
+    <string name="jawab4_soal6_sor_singgih">
+        Jawaban 4 soal 6 materi sor singgih
+    </string>
+
+
+    <string name="soal7_sor_singgih">
+        Soal 7 materi sor singgih
+    </string>
+
+    <string name="jawab1_soal7_sor_singgih">
+        Jawaban 1 soal 7 materi sor singgih
+    </string>
+
+    <string name="jawab2_soal7_sor_singgih">
+        Jawaban 2 soal 7 materi sor singgih
+    </string>
+
+    <string name="jawab3_soal7_sor_singgih">
+        Jawaban 3 soal 7 materi sor singgih
+    </string>
+
+    <string name="jawab4_soal7_sor_singgih">
+        Jawaban 4 soal 8 materi sor singgih
+    </string>
+
+
+    <string name="soal8_sor_singgih">
+        Soal 8 materi sor singgih
+    </string>
+
+    <string name="jawab1_soal8_sor_singgih">
+        Jawaban 1 soal 8 materi sor singgih
+    </string>
+
+    <string name="jawab2_soal8_sor_singgih">
+        Jawaban 2 soal 8 materi sor singgih
+    </string>
+
+    <string name="jawab3_soal8_sor_singgih">
+        Jawaban 3 soal 8 materi sor singgih
+    </string>
+
+    <string name="jawab4_soal8_sor_singgih">
+        Jawaban 4 soal 8 materi sor singgih
+    </string>
+
+
+    <string name="soal9_sor_singgih">
+        Soal 9 materi sor singgih
+    </string>
+
+    <string name="jawab1_soal9_sor_singgih">
+        Jawaban 1 soal 9 materi sor singgih
+    </string>
+
+    <string name="jawab2_soal9_sor_singgih">
+        Jawaban 2 soal 9 materi sor singgih
+    </string>
+
+    <string name="jawab3_soal9_sor_singgih">
+        Jawaban 3 soal 9 materi sor singgih
+    </string>
+
+    <string name="jawab4_soal9_sor_singgih">
+        Jawaban 4 soal 9 materi sor singgih
+    </string>
+
+
+    <string name="soal10_sor_singgih">
+        Soal 10 materi sor singgih
+    </string>
+
+    <string name="jawab1_soal10_sor_singgih">
+        Jawaban 1 soal 10 materi sor singgih
+    </string>
+
+    <string name="jawab2_soal10_sor_singgih">
+        Jawaban 2 soal 10 materi sor singgih
+    </string>
+
+    <string name="jawab3_soal10_sor_singgih">
+        Jawaban 3 soal 10 materi sor singgih
+    </string>
+
+    <string name="jawab4_soal10_sor_singgih">
+        Jawaban 4 soal 10 materi sor singgih
+    </string>
+
+
+    <string name="soal1_pembagian_tingkatan">
+        Soal 1 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab1_soal1_pembagian_tingkatan">
+        Jawaban 1 soal 1 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab2_soal1_pembagian_tingkatan">
+        Jawaban 2 soal 1 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab3_soal1_pembagian_tingkatan">
+        Jawaban 3 soal 1 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab4_soal1_pembagian_tingkatan">
+        Jawaban 4 soal 1 materi pembagian tingkatan
+    </string>
+
+
+    <string name="soal2_pembagian_tingkatan">
+        Soal 2 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab1_soal2_pembagian_tingkatan">
+        Jawaban 1 soal 2 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab2_soal2_pembagian_tingkatan">
+        Jawaban 2 soal 2 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab3_soal2_pembagian_tingkatan">
+        Jawaban 3 soal 2 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab4_soal2_pembagian_tingkatan">
+        Jawaban 4 soal 2 materi pembagian tingkatan
+    </string>
+
+
+    <string name="soal3_pembagian_tingkatan">
+        Soal 3 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab1_soal3_pembagian_tingkatan">
+        Jawaban 1 soal 3 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab2_soal3_pembagian_tingkatan">
+        Jawaban 2 soal 3 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab3_soal3_pembagian_tingkatan">
+        Jawaban 3 soal 3 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab4_soal3_pembagian_tingkatan">
+        Jawaban 4 soal 3 materi pembagian tingkatan
+    </string>
+
+
+    <string name="soal4_pembagian_tingkatan">
+        Soal 4 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab1_soal4_pembagian_tingkatan">
+        Jawaban 1 soal 4 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab2_soal4_pembagian_tingkatan">
+        Jawaban 2 soal 4 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab3_soal4_pembagian_tingkatan">
+        Jawaban 3 soal 4 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab4_soal4_pembagian_tingkatan">
+        Jawaban 4 soal 4 materi pembagian tingkatan
+    </string>
+
+
+    <string name="soal5_pembagian_tingkatan">
+        Soal 5 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab1_soal5_pembagian_tingkatan">
+        Jawaban 1 soal 5 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab2_soal5_pembagian_tingkatan">
+        Jawaban 2 soal 5 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab3_soal5_pembagian_tingkatan">
+        Jawaban 3 soal 5 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab4_soal5_pembagian_tingkatan">
+        Jawaban 4 soal 5 materi pembagian tingkatan
+    </string>
+
+
+    <string name="soal6_pembagian_tingkatan">
+        Soal 6 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab1_soal6_pembagian_tingkatan">
+        Jawaban 1 soal 6 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab2_soal6_pembagian_tingkatan">
+        Jawaban 2 soal 6 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab3_soal6_pembagian_tingkatan">
+        Jawaban 3 soal 6 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab4_soal6_pembagian_tingkatan">
+        Jawaban 4 soal 6 materi pembagian tingkatan
+    </string>
+
+
+    <string name="soal7_pembagian_tingkatan">
+        Soal 7 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab1_soal7_pembagian_tingkatan">
+        Jawaban 1 soal 7 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab2_soal7_pembagian_tingkatan">
+        Jawaban 2 soal 7 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab3_soal7_pembagian_tingkatan">
+        Jawaban 3 soal 7 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab4_soal7_pembagian_tingkatan">
+        Jawaban 4 soal 8 materi pembagian tingkatan
+    </string>
+
+
+    <string name="soal8_pembagian_tingkatan">
+        Soal 8 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab1_soal8_pembagian_tingkatan">
+        Jawaban 1 soal 8 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab2_soal8_pembagian_tingkatan">
+        Jawaban 2 soal 8 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab3_soal8_pembagian_tingkatan">
+        Jawaban 3 soal 8 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab4_soal8_pembagian_tingkatan">
+        Jawaban 4 soal 8 materi pembagian tingkatan
+    </string>
+
+
+    <string name="soal9_pembagian_tingkatan">
+        Soal 9 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab1_soal9_pembagian_tingkatan">
+        Jawaban 1 soal 9 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab2_soal9_pembagian_tingkatan">
+        Jawaban 2 soal 9 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab3_soal9_pembagian_tingkatan">
+        Jawaban 3 soal 9 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab4_soal9_pembagian_tingkatan">
+        Jawaban 4 soal 9 materi pembagian tingkatan
+    </string>
+
+
+    <string name="soal10_pembagian_tingkatan">
+        Soal 10 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab1_soal10_pembagian_tingkatan">
+        Jawaban 1 soal 10 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab2_soal10_pembagian_tingkatan">
+        Jawaban 2 soal 10 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab3_soal10_pembagian_tingkatan">
+        Jawaban 3 soal 10 materi pembagian tingkatan
+    </string>
+
+    <string name="jawab4_soal10_pembagian_tingkatan">
+        Jawaban 4 soal 10 materi pembagian tingkatan
+    </string>
+
+
+    <string name="soal1_aturan_penggunaan">
+        Soal 1 materi aturan penggunaan
+    </string>
+
+    <string name="jawab1_soal1_aturan_penggunaan">
+        Jawaban 1 soal 1 materi aturan penggunaan
+    </string>
+
+    <string name="jawab2_soal1_aturan_penggunaan">
+        Jawaban 2 soal 1 materi aturan penggunaan
+    </string>
+
+    <string name="jawab3_soal1_aturan_penggunaan">
+        Jawaban 3 soal 1 materi aturan penggunaan
+    </string>
+
+    <string name="jawab4_soal1_aturan_penggunaan">
+        Jawaban 4 soal 1 materi aturan penggunaan
+    </string>
+
+
+    <string name="soal2_aturan_penggunaan">
+        Soal 2 materi aturan penggunaan
+    </string>
+
+    <string name="jawab1_soal2_aturan_penggunaan">
+        Jawaban 1 soal 2 materi aturan penggunaan
+    </string>
+
+    <string name="jawab2_soal2_aturan_penggunaan">
+        Jawaban 2 soal 2 materi aturan penggunaan
+    </string>
+
+    <string name="jawab3_soal2_aturan_penggunaan">
+        Jawaban 3 soal 2 materi aturan penggunaan
+    </string>
+
+    <string name="jawab4_soal2_aturan_penggunaan">
+        Jawaban 4 soal 2 materi aturan penggunaan
+    </string>
+
+
+    <string name="soal3_aturan_penggunaan">
+        Soal 3 materi aturan penggunaan
+    </string>
+
+    <string name="jawab1_soal3_aturan_penggunaan">
+        Jawaban 1 soal 3 materi aturan penggunaan
+    </string>
+
+    <string name="jawab2_soal3_aturan_penggunaan">
+        Jawaban 2 soal 3 materi aturan penggunaan
+    </string>
+
+    <string name="jawab3_soal3_aturan_penggunaan">
+        Jawaban 3 soal 3 materi aturan penggunaan
+    </string>
+
+    <string name="jawab4_soal3_aturan_penggunaan">
+        Jawaban 4 soal 3 materi aturan penggunaan
+    </string>
+
+
+    <string name="soal4_aturan_penggunaan">
+        Soal 4 materi aturan penggunaan
+    </string>
+
+    <string name="jawab1_soal4_aturan_penggunaan">
+        Jawaban 1 soal 4 materi aturan penggunaan
+    </string>
+
+    <string name="jawab2_soal4_aturan_penggunaan">
+        Jawaban 2 soal 4 materi aturan penggunaan
+    </string>
+
+    <string name="jawab3_soal4_aturan_penggunaan">
+        Jawaban 3 soal 4 materi aturan penggunaan
+    </string>
+
+    <string name="jawab4_soal4_aturan_penggunaan">
+        Jawaban 4 soal 4 materi aturan penggunaan
+    </string>
+
+
+    <string name="soal5_aturan_penggunaan">
+        Soal 5 materi aturan penggunaan
+    </string>
+
+    <string name="jawab1_soal5_aturan_penggunaan">
+        Jawaban 1 soal 5 materi aturan penggunaan
+    </string>
+
+    <string name="jawab2_soal5_aturan_penggunaan">
+        Jawaban 2 soal 5 materi aturan penggunaan
+    </string>
+
+    <string name="jawab3_soal5_aturan_penggunaan">
+        Jawaban 3 soal 5 materi aturan penggunaan
+    </string>
+
+    <string name="jawab4_soal5_aturan_penggunaan">
+        Jawaban 4 soal 5 materi aturan penggunaan
+    </string>
+
+
+    <string name="soal6_aturan_penggunaan">
+        Soal 6 materi aturan penggunaan
+    </string>
+
+    <string name="jawab1_soal6_aturan_penggunaan">
+        Jawaban 1 soal 6 materi aturan penggunaan
+    </string>
+
+    <string name="jawab2_soal6_aturan_penggunaan">
+        Jawaban 2 soal 6 materi aturan penggunaan
+    </string>
+
+    <string name="jawab3_soal6_aturan_penggunaan">
+        Jawaban 3 soal 6 materi aturan penggunaan
+    </string>
+
+    <string name="jawab4_soal6_aturan_penggunaan">
+        Jawaban 4 soal 6 materi aturan penggunaan
+    </string>
+
+
+    <string name="soal7_aturan_penggunaan">
+        Soal 7 materi aturan penggunaan
+    </string>
+
+    <string name="jawab1_soal7_aturan_penggunaan">
+        Jawaban 1 soal 7 materi aturan penggunaan
+    </string>
+
+    <string name="jawab2_soal7_aturan_penggunaan">
+        Jawaban 2 soal 7 materi aturan penggunaan
+    </string>
+
+    <string name="jawab3_soal7_aturan_penggunaan">
+        Jawaban 3 soal 7 materi aturan penggunaan
+    </string>
+
+    <string name="jawab4_soal7_aturan_penggunaan">
+        Jawaban 4 soal 8 materi aturan penggunaan
+    </string>
+
+
+    <string name="soal8_aturan_penggunaan">
+        Soal 8 materi aturan penggunaan
+    </string>
+
+    <string name="jawab1_soal8_aturan_penggunaan">
+        Jawaban 1 soal 8 materi aturan penggunaan
+    </string>
+
+    <string name="jawab2_soal8_aturan_penggunaan">
+        Jawaban 2 soal 8 materi aturan penggunaan
+    </string>
+
+    <string name="jawab3_soal8_aturan_penggunaan">
+        Jawaban 3 soal 8 materi aturan penggunaan
+    </string>
+
+    <string name="jawab4_soal8_aturan_penggunaan">
+        Jawaban 4 soal 8 materi aturan penggunaan
+    </string>
+
+
+    <string name="soal9_aturan_penggunaan">
+        Soal 9 materi aturan penggunaan
+    </string>
+
+    <string name="jawab1_soal9_aturan_penggunaan">
+        Jawaban 1 soal 9 materi aturan penggunaan
+    </string>
+
+    <string name="jawab2_soal9_aturan_penggunaan">
+        Jawaban 2 soal 9 materi aturan penggunaan
+    </string>
+
+    <string name="jawab3_soal9_aturan_penggunaan">
+        Jawaban 3 soal 9 materi aturan penggunaan
+    </string>
+
+    <string name="jawab4_soal9_aturan_penggunaan">
+        Jawaban 4 soal 9 materi aturan penggunaan
+    </string>
+
+
+    <string name="soal10_aturan_penggunaan">
+        Soal 10 materi aturan penggunaan
+    </string>
+
+    <string name="jawab1_soal10_aturan_penggunaan">
+        Jawaban 1 soal 10 materi aturan penggunaan
+    </string>
+
+    <string name="jawab2_soal10_aturan_penggunaan">
+        Jawaban 2 soal 10 materi aturan penggunaan
+    </string>
+
+    <string name="jawab3_soal10_aturan_penggunaan">
+        Jawaban 3 soal 10 materi aturan penggunaan
+    </string>
+
+    <string name="jawab4_soal10_aturan_penggunaan">
+        Jawaban 4 soal 10 materi aturan penggunaan
+    </string>
+
+
+    <string name="soal1_contoh_kata_dan_kalimat">
+        Soal 1 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab1_soal1_contoh_kata_dan_kalimat">
+        Jawaban 1 soal 1 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab2_soal1_contoh_kata_dan_kalimat">
+        Jawaban 2 soal 1 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab3_soal1_contoh_kata_dan_kalimat">
+        Jawaban 3 soal 1 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab4_soal1_contoh_kata_dan_kalimat">
+        Jawaban 4 soal 1 materi contoh kata dan kalimat
+    </string>
+
+
+    <string name="soal2_contoh_kata_dan_kalimat">
+        Soal 2 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab1_soal2_contoh_kata_dan_kalimat">
+        Jawaban 1 soal 2 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab2_soal2_contoh_kata_dan_kalimat">
+        Jawaban 2 soal 2 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab3_soal2_contoh_kata_dan_kalimat">
+        Jawaban 3 soal 2 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab4_soal2_contoh_kata_dan_kalimat">
+        Jawaban 4 soal 2 materi contoh kata dan kalimat
+    </string>
+
+
+    <string name="soal3_contoh_kata_dan_kalimat">
+        Soal 3 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab1_soal3_contoh_kata_dan_kalimat">
+        Jawaban 1 soal 3 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab2_soal3_contoh_kata_dan_kalimat">
+        Jawaban 2 soal 3 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab3_soal3_contoh_kata_dan_kalimat">
+        Jawaban 3 soal 3 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab4_soal3_contoh_kata_dan_kalimat">
+        Jawaban 4 soal 3 materi contoh kata dan kalimat
+    </string>
+
+
+    <string name="soal4_contoh_kata_dan_kalimat">
+        Soal 4 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab1_soal4_contoh_kata_dan_kalimat">
+        Jawaban 1 soal 4 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab2_soal4_contoh_kata_dan_kalimat">
+        Jawaban 2 soal 4 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab3_soal4_contoh_kata_dan_kalimat">
+        Jawaban 3 soal 4 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab4_soal4_contoh_kata_dan_kalimat">
+        Jawaban 4 soal 4 materi contoh kata dan kalimat
+    </string>
+
+
+    <string name="soal5_contoh_kata_dan_kalimat">
+        Soal 5 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab1_soal5_contoh_kata_dan_kalimat">
+        Jawaban 1 soal 5 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab2_soal5_contoh_kata_dan_kalimat">
+        Jawaban 2 soal 5 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab3_soal5_contoh_kata_dan_kalimat">
+        Jawaban 3 soal 5 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab4_soal5_contoh_kata_dan_kalimat">
+        Jawaban 4 soal 5 materi contoh kata dan kalimat
+    </string>
+
+
+    <string name="soal6_contoh_kata_dan_kalimat">
+        Soal 6 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab1_soal6_contoh_kata_dan_kalimat">
+        Jawaban 1 soal 6 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab2_soal6_contoh_kata_dan_kalimat">
+        Jawaban 2 soal 6 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab3_soal6_contoh_kata_dan_kalimat">
+        Jawaban 3 soal 6 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab4_soal6_contoh_kata_dan_kalimat">
+        Jawaban 4 soal 6 materi contoh kata dan kalimat
+    </string>
+
+
+    <string name="soal7_contoh_kata_dan_kalimat">
+        Soal 7 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab1_soal7_contoh_kata_dan_kalimat">
+        Jawaban 1 soal 7 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab2_soal7_contoh_kata_dan_kalimat">
+        Jawaban 2 soal 7 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab3_soal7_contoh_kata_dan_kalimat">
+        Jawaban 3 soal 7 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab4_soal7_contoh_kata_dan_kalimat">
+        Jawaban 4 soal 8 materi contoh kata dan kalimat
+    </string>
+
+
+    <string name="soal8_contoh_kata_dan_kalimat">
+        Soal 8 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab1_soal8_contoh_kata_dan_kalimat">
+        Jawaban 1 soal 8 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab2_soal8_contoh_kata_dan_kalimat">
+        Jawaban 2 soal 8 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab3_soal8_contoh_kata_dan_kalimat">
+        Jawaban 3 soal 8 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab4_soal8_contoh_kata_dan_kalimat">
+        Jawaban 4 soal 8 materi contoh kata dan kalimat
+    </string>
+
+
+    <string name="soal9_contoh_kata_dan_kalimat">
+        Soal 9 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab1_soal9_contoh_kata_dan_kalimat">
+        Jawaban 1 soal 9 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab2_soal9_contoh_kata_dan_kalimat">
+        Jawaban 2 soal 9 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab3_soal9_contoh_kata_dan_kalimat">
+        Jawaban 3 soal 9 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab4_soal9_contoh_kata_dan_kalimat">
+        Jawaban 4 soal 9 materi contoh kata dan kalimat
+    </string>
+
+
+    <string name="soal10_contoh_kata_dan_kalimat">
+        Soal 10 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab1_soal10_contoh_kata_dan_kalimat">
+        Jawaban 1 soal 10 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab2_soal10_contoh_kata_dan_kalimat">
+        Jawaban 2 soal 10 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab3_soal10_contoh_kata_dan_kalimat">
+        Jawaban 3 soal 10 materi contoh kata dan kalimat
+    </string>
+
+    <string name="jawab4_soal10_contoh_kata_dan_kalimat">
+        Jawaban 4 soal 10 materi contoh kata dan kalimat
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

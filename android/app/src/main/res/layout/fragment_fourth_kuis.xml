@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. SINTAKSIS BAHASA BALI"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/david_libre"
+        android:textColor="#AC2222"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1.4 KUIS KALIMAT BAHASA BALI"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/david_libre"
+        android:textColor="#AC2222"
+        android:layout_marginTop="2dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="#AC2222"
+        android:fontFamily="@font/bubblegum_sans"
+        android:text="HANYA JAWABAN PERTAMA (THE FIRST ATTEMPT) YANG DINILAI!"
+        android:textAlignment="center"
+        android:textColor="#FFF"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/soal41"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text="@string/soal1_kalimat"
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre"
+                android:scrollbars = "vertical"/>
+
+            <RadioGroup
+                android:id="@+id/jawab41"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/soal41"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/jawab41a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="18sp"
+                    android:text="@string/jawab1_soal1_kalimat"
+                    android:textColor="#FFF" />
+
+                <RadioButton
+                    android:id="@+id/jawab41b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="18sp"
+                    android:text="@string/jawab2_soal1_kalimat"
+                    android:textColor="#FFF" />
+
+                <RadioButton
+                    android:id="@+id/jawab41c"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="18sp"
+                    android:text="@string/jawab3_soal1_kalimat"
+                    android:textColor="#FFF" />
+
+                <RadioButton
+                    android:id="@+id/jawab41d"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="18sp"
+                    android:text="@string/jawab4_soal1_kalimat"
+                    android:textColor="#FFF" />
+
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/soal42"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text="@string/soal2_kalimat"
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre"
+                android:scrollbars = "vertical"/>
+
+            <RadioGroup
+                android:id="@+id/jawab42"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/soal42"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/jawab42a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab1_soal2_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab42b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab2_soal2_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab42c"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab3_soal2_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab42d"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab4_soal2_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/soal43"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text="@string/soal3_kalimat"
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre"
+                android:scrollbars = "vertical"/>
+
+            <RadioGroup
+                android:id="@+id/jawab43"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/soal43"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/jawab43a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab1_soal3_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab43b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab2_soal3_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab43c"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab3_soal3_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab43d"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab4_soal3_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/soal44"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text="@string/soal4_kalimat"
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre"
+                android:scrollbars = "vertical"/>
+
+            <RadioGroup
+                android:id="@+id/jawab44"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/soal44"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/jawab44a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab1_soal4_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab44b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab2_soal4_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab44c"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab3_soal4_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab44d"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab4_soal4_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/soal45"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text="@string/soal5_kalimat"
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre"
+                android:scrollbars = "vertical"/>
+
+            <RadioGroup
+                android:id="@+id/jawab45"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/soal45"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/jawab45a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab1_soal5_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab45b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab2_soal5_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab45c"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab3_soal5_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab45d"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab4_soal5_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/soal46"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text="@string/soal6_kalimat"
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre"
+                android:scrollbars = "vertical"/>
+
+            <RadioGroup
+                android:id="@+id/jawab46"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/soal46"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/jawab46a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="18sp"
+                    android:text="@string/jawab1_soal6_kalimat"
+                    android:textColor="#FFF" />
+
+                <RadioButton
+                    android:id="@+id/jawab46b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="18sp"
+                    android:text="@string/jawab2_soal6_kalimat"
+                    android:textColor="#FFF" />
+
+                <RadioButton
+                    android:id="@+id/jawab46c"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="18sp"
+                    android:text="@string/jawab3_soal6_kalimat"
+                    android:textColor="#FFF" />
+
+                <RadioButton
+                    android:id="@+id/jawab46d"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="18sp"
+                    android:text="@string/jawab4_soal6_kalimat"
+                    android:textColor="#FFF" />
+
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/soal47"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text="@string/soal7_kalimat"
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre"
+                android:scrollbars = "vertical"/>
+
+            <RadioGroup
+                android:id="@+id/jawab47"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/soal47"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/jawab47a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab1_soal7_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab47b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab2_soal7_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab47c"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab3_soal7_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab47d"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab4_soal7_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/soal48"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text="@string/soal8_kalimat"
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre"
+                android:scrollbars = "vertical"/>
+
+            <RadioGroup
+                android:id="@+id/jawab48"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/soal48"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/jawab48a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab1_soal8_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab48b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab2_soal8_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab48c"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab3_soal8_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab48d"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab4_soal8_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/soal49"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text="@string/soal9_kalimat"
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre"
+                android:scrollbars = "vertical"/>
+
+            <RadioGroup
+                android:id="@+id/jawab49"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/soal49"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/jawab49a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab1_soal9_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab49b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab2_soal9_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab49c"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab3_soal9_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab49d"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab4_soal9_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/soal410"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text="@string/soal10_kalimat"
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre"
+                android:scrollbars = "vertical"/>
+
+            <RadioGroup
+                android:id="@+id/jawab410"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/soal410"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:orientation="vertical">
+
+                <RadioButton
+                    android:id="@+id/jawab410a"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab1_soal10_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab410b"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab2_soal10_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab410c"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab3_soal10_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+                <RadioButton
+                    android:id="@+id/jawab410d"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/jawab4_soal10_kalimat"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:layout_marginLeft="15dp"/>
+
+            </RadioGroup>
+
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <Button
+                    android:id="@+id/submit_fourth"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#AC2222"
+                    android:text="Submit"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/daftar_isi_fourth_kuis"
+                    android:layout_marginTop="10dp"
+                    android:layout_toRightOf="@+id/submit_fourth"
+                    android:layout_marginLeft="30dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#AC2222"
+                    android:text="Daftar Materi Kuis"
+                    android:textColor="#FFF"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/viewResultMateri4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="20dp"
+                android:minLines="4"
+                android:maxLines="4"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text="HASIL"
+                android:textColor="#FFF"
+                android:textSize="28sp"
+                android:fontFamily="@font/david_libre" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="20dp">
+
+                <Button
+                    android:id="@+id/button_fourth1_kuis"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/previous"
+                    android:textColor="#FFF"
+                    android:background="@color/colorPrimary"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"/>
+
+                <Button
+                    android:id="@+id/button_fourth2_kuis"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorPrimary"
+                    android:text="@string/next"
+                    android:textColor="#FFF"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"/>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

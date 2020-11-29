@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+    <ImageView
+        android:id="@+id/image_materi"
+        android:layout_width="15mm"
+        android:layout_height="15mm"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="90dp"
+        android:onClick="onClickMateri"
+        android:src="@mipmap/ic_materi_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="25dp"
+        android:layout_toRightOf="@id/image_materi"
+        android:background="#1250BA"
+        android:text="Materi Anggah Ungguhing Basa Bali"
+        android:textColor="#FFF"
+        android:textSize="28sp"
+        android:fontFamily="@font/david_libre"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/image_materi"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/image_kuis"
+        android:layout_width="15mm"
+        android:layout_height="15mm"
+        android:layout_below="@id/image_materi"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="15dp"
+        android:onClick="onClickKuis"
+        android:src="@mipmap/ic_kuis_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_materi" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_materi"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="25dp"
+        android:layout_toRightOf="@id/image_kuis"
+        android:background="#1250BA"
+        android:text="Kuis Anggah Ungguhing Basa Bali"
+        android:textColor="#FFF"
+        android:textSize="28sp"
+        android:fontFamily="@font/david_libre"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/image_kuis"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <ImageView
+        android:id="@+id/image_kamus"
+        android:layout_width="15mm"
+        android:layout_height="15mm"
+        android:layout_below="@id/image_kuis"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="15dp"
+        android:onClick="onClickKamus"
+        android:src="@mipmap/ic_kamus_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_kuis" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_kuis"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="25dp"
+        android:layout_toRightOf="@id/image_kamus"
+        android:background="#1250BA"
+        android:text="Kamus Anggah Ungguhing Basa Bali"
+        android:textColor="#FFF"
+        android:textSize="28sp"
+        android:fontFamily="@font/david_libre"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/image_kamus"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <ImageView
+        android:id="@+id/image_penerjemah"
+        android:layout_width="15mm"
+        android:layout_height="15mm"
+        android:layout_below="@id/image_kamus"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="15dp"
+        android:onClick="onClickPenerjemah"
+        android:src="@mipmap/ic_penerjemah_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_kamus" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_kamus"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="25dp"
+        android:layout_toRightOf="@id/image_kamus"
+        android:background="#1250BA"
+        android:text="Penerjemah Anggah Ungguhing Basa Bali"
+        android:textColor="#FFF"
+        android:textSize="28sp"
+        android:fontFamily="@font/david_libre"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/image_penerjemah"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

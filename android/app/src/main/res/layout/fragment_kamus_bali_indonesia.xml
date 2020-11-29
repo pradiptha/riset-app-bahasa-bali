@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp">
+
+        <Button
+            android:id="@+id/kamusIndonesia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Indonesia -> Bali"
+            android:textColor="#FFF"
+            android:background="@color/colorPrimary"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <Button
+            android:id="@+id/kamusBali"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:text="Bali -> Indonesia"
+            android:textColor="#FFF"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="KAMUS BAHASA BALI"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/david_libre"
+        android:textColor="#AC2222"
+        android:layout_marginTop="10dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Masukkan kata Bahasa Bali:"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/david_libre"
+        android:textColor="#AC2222"
+        android:layout_marginTop="10dp"
+        />
+
+    <EditText
+        android:id="@+id/inputKataBali"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ketik Disini!"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/david_libre"
+        android:background="#2196F3"
+        android:textColor="#FFF"
+        android:textAlignment="center"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:id="@+id/btnTranslate2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="translate"
+        android:textColor="#FFF"
+        android:background="#AC2222"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/viewIndonesia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text = "Kata Indonesia: "
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre" />
+
+            <TextView
+                android:id="@+id/viewAndap2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text = "Kruna Andap: "
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre" />
+
+            <TextView
+                android:id="@+id/viewAso2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="2dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text = "Kruna Alus Sor: "
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre" />
+
+            <TextView
+                android:id="@+id/viewAsi2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="2dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text = "Kruna Alus Singgih: "
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre" />
+
+
+            <TextView
+                android:id="@+id/viewMider2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text = "Kruna Mider: "
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre" />
+
+            <TextView
+                android:id="@+id/viewAlusMider2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="2dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text = "Kruna Alus Mider: "
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre" />
+
+            <TextView
+                android:id="@+id/viewAlusMadya2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="2dp"
+                android:background="#1250BA"
+                android:ems="10"
+                android:text = "Kruna Alus Madya: "
+                android:textColor="#FFF"
+                android:textSize="22sp"
+                android:fontFamily="@font/david_libre" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
