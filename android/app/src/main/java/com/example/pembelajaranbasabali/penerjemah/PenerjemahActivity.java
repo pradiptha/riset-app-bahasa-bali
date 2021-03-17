@@ -1,10 +1,13 @@
-package com.example.pembelajaranbasabali;
+package com.example.pembelajaranbasabali.penerjemah;
 
 import androidx.appcompat.widget.Toolbar;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import com.example.pembelajaranbasabali.BaseActivity;
+import com.example.pembelajaranbasabali.R;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,17 +17,14 @@ import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.List;
 
-public class KamusActivity extends BaseActivity {
+public class PenerjemahActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_kamus);
+        setContentView(R.layout.activity_penerjemah);
 
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
     }
-
-
 }

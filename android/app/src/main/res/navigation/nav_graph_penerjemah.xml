@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/indonesiaBaliFragmentPenerjemah"
-        android:name="com.example.pembelajaranbasabali.PenerjemahIndonesiaBaliFragment"
+        android:name="com.example.pembelajaranbasabali.penerjemah.PenerjemahIndonesiaBaliFragment"
 
         tools:layout="@layout/fragment_penerjemah_indonesia_bali">
 
@@ -23,7 +23,7 @@
 
     <fragment
         android:id="@+id/baliIndonesiaFragmentPenerjemah"
-        android:name="com.example.pembelajaranbasabali.PenerjemahBaliIndonesiaFragment"
+        android:name="com.example.pembelajaranbasabali.penerjemah.PenerjemahBaliIndonesiaFragment"
 
         tools:layout="@layout/fragment_penerjemah_bali_indonesia">
 

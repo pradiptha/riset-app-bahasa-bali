@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/indonesiaBaliFragmentKamus"
-        android:name="com.example.pembelajaranbasabali.KamusIndonesiaBaliFragment"
+        android:name="com.example.pembelajaranbasabali.kamus.KamusIndonesiaBaliFragment"
 
         tools:layout="@layout/fragment_kamus_indonesia_bali">
 
@@ -23,7 +23,7 @@
 
     <fragment
         android:id="@+id/baliIndonesiaFragmentKamus"
-        android:name="com.example.pembelajaranbasabali.KamusBaliIndonesiaFragment"
+        android:name="com.example.pembelajaranbasabali.kamus.KamusBaliIndonesiaFragment"
 
         tools:layout="@layout/fragment_kamus_bali_indonesia">
 

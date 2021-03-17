@@ -5,6 +5,11 @@ import android.os.Bundle;
 import androidx.appcompat.widget.Toolbar;
 import android.view.View;
 
+import com.example.pembelajaranbasabali.kamus.KamusActivity;
+import com.example.pembelajaranbasabali.kuis.KuisActivity;
+import com.example.pembelajaranbasabali.materi.MateriActivity;
+import com.example.pembelajaranbasabali.penerjemah.PenerjemahActivity;
+
 public class MainActivity extends com.example.pembelajaranbasabali.BaseActivity {
 
     @Override

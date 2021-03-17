@@ -1,4 +1,4 @@
-package com.example.pembelajaranbasabali;
+package com.example.pembelajaranbasabali.materi;
 
         import android.os.Bundle;
         import android.text.method.ScrollingMovementMethod;
@@ -10,6 +10,8 @@ package com.example.pembelajaranbasabali;
         import androidx.annotation.NonNull;
         import androidx.fragment.app.Fragment;
         import androidx.navigation.fragment.NavHostFragment;
+
+        import com.example.pembelajaranbasabali.R;
 
 public class SixthFragment extends Fragment {
 

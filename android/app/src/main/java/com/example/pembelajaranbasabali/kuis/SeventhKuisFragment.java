@@ -1,7 +1,6 @@
-package com.example.pembelajaranbasabali;
+package com.example.pembelajaranbasabali.kuis;
 
 import android.os.Bundle;
-import android.text.method.ScrollingMovementMethod;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,6 +10,8 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
+
+import com.example.pembelajaranbasabali.R;
 
 public class SeventhKuisFragment extends Fragment {
 

@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name=".PenerjemahActivity" />
-        <activity android:name=".KamusActivity" />
-        <activity android:name=".KuisActivity" />
-        <activity android:name=".MateriActivity" />
+        <activity android:name=".penerjemah.PenerjemahActivity" />
+        <activity android:name=".kamus.KamusActivity" />
+        <activity android:name=".kuis.KuisActivity" />
+        <activity android:name=".materi.MateriActivity" />
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"

@@ -7,6 +7,11 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.pembelajaranbasabali.kamus.KamusActivity;
+import com.example.pembelajaranbasabali.kuis.KuisActivity;
+import com.example.pembelajaranbasabali.materi.MateriActivity;
+import com.example.pembelajaranbasabali.penerjemah.PenerjemahActivity;
+
 public class BaseActivity extends AppCompatActivity {
 
     @Override

@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/StartFragment"
-        android:name="com.example.pembelajaranbasabali.StartFragment"
+        android:name="com.example.pembelajaranbasabali.materi.StartFragment"
 
         tools:layout="@layout/fragment_start">
 
@@ -47,7 +47,7 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="com.example.pembelajaranbasabali.FirstFragment"
+        android:name="com.example.pembelajaranbasabali.materi.FirstFragment"
 
         tools:layout="@layout/fragment_first">
 
@@ -63,7 +63,7 @@
 
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="com.example.pembelajaranbasabali.SecondFragment"
+        android:name="com.example.pembelajaranbasabali.materi.SecondFragment"
 
         tools:layout="@layout/fragment_second">
 
@@ -84,7 +84,7 @@
 
     <fragment
         android:id="@+id/ThirdFragment"
-        android:name="com.example.pembelajaranbasabali.ThirdFragment"
+        android:name="com.example.pembelajaranbasabali.materi.ThirdFragment"
 
         tools:layout="@layout/fragment_third">
 
@@ -104,7 +104,7 @@
 
     <fragment
         android:id="@+id/FourthFragment"
-        android:name="com.example.pembelajaranbasabali.FourthFragment"
+        android:name="com.example.pembelajaranbasabali.materi.FourthFragment"
 
         tools:layout="@layout/fragment_fourth">
 
@@ -124,7 +124,7 @@
 
     <fragment
         android:id="@+id/FifthFragment"
-        android:name="com.example.pembelajaranbasabali.FifthFragment"
+        android:name="com.example.pembelajaranbasabali.materi.FifthFragment"
 
         tools:layout="@layout/fragment_fifth">
 
@@ -144,7 +144,7 @@
 
     <fragment
         android:id="@+id/SixthFragment"
-        android:name="com.example.pembelajaranbasabali.SixthFragment"
+        android:name="com.example.pembelajaranbasabali.materi.SixthFragment"
 
         tools:layout="@layout/fragment_sixth">
 
@@ -164,7 +164,7 @@
 
     <fragment
         android:id="@+id/SeventhFragment"
-        android:name="com.example.pembelajaranbasabali.SeventhFragment"
+        android:name="com.example.pembelajaranbasabali.materi.SeventhFragment"
 
         tools:layout="@layout/fragment_seventh">
 
@@ -184,7 +184,7 @@
 
     <fragment
         android:id="@+id/EighthFragment"
-        android:name="com.example.pembelajaranbasabali.EighthFragment"
+        android:name="com.example.pembelajaranbasabali.materi.EighthFragment"
 
         tools:layout="@layout/fragment_eighth">
 

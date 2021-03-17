@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/startFragmentKuis"
-        android:name="com.example.pembelajaranbasabali.StartKuisFragment"
+        android:name="com.example.pembelajaranbasabali.kuis.StartKuisFragment"
 
         tools:layout="@layout/fragment_start_kuis">
 
@@ -47,7 +47,7 @@
 
     <fragment
         android:id="@+id/firstFragmentKuis"
-        android:name="com.example.pembelajaranbasabali.FirstKuisFragment"
+        android:name="com.example.pembelajaranbasabali.kuis.FirstKuisFragment"
 
         tools:layout="@layout/fragment_first_kuis">
 
@@ -63,7 +63,7 @@
 
     <fragment
         android:id="@+id/secondFragmentKuis"
-        android:name="com.example.pembelajaranbasabali.SecondKuisFragment"
+        android:name="com.example.pembelajaranbasabali.kuis.SecondKuisFragment"
 
         tools:layout="@layout/fragment_second_kuis">
 
@@ -84,7 +84,7 @@
 
     <fragment
         android:id="@+id/thirdFragmentKuis"
-        android:name="com.example.pembelajaranbasabali.ThirdKuisFragment"
+        android:name="com.example.pembelajaranbasabali.kuis.ThirdKuisFragment"
 
         tools:layout="@layout/fragment_third_kuis">
 
@@ -104,7 +104,7 @@
 
     <fragment
         android:id="@+id/fourthFragmentKuis"
-        android:name="com.example.pembelajaranbasabali.FourthKuisFragment"
+        android:name="com.example.pembelajaranbasabali.kuis.FourthKuisFragment"
 
         tools:layout="@layout/fragment_fourth_kuis">
 
@@ -124,7 +124,7 @@
 
     <fragment
         android:id="@+id/fifthFragmentKuis"
-        android:name="com.example.pembelajaranbasabali.FifthKuisFragment"
+        android:name="com.example.pembelajaranbasabali.kuis.FifthKuisFragment"
 
         tools:layout="@layout/fragment_fifth_kuis">
 
@@ -144,7 +144,7 @@
 
     <fragment
         android:id="@+id/sixthFragmentKuis"
-        android:name="com.example.pembelajaranbasabali.SixthKuisFragment"
+        android:name="com.example.pembelajaranbasabali.kuis.SixthKuisFragment"
 
         tools:layout="@layout/fragment_sixth_kuis">
 
@@ -164,7 +164,7 @@
 
     <fragment
         android:id="@+id/seventhFragmentKuis"
-        android:name="com.example.pembelajaranbasabali.SeventhKuisFragment"
+        android:name="com.example.pembelajaranbasabali.kuis.SeventhKuisFragment"
 
         tools:layout="@layout/fragment_seventh_kuis">
 
@@ -184,7 +184,7 @@
 
     <fragment
         android:id="@+id/eighthFragmentKuis"
-        android:name="com.example.pembelajaranbasabali.EighthKuisFragment"
+        android:name="com.example.pembelajaranbasabali.kuis.EighthKuisFragment"
 
         tools:layout="@layout/fragment_eighth_kuis">
 

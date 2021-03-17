@@ -1,4 +1,4 @@
-package com.example.pembelajaranbasabali;
+package com.example.pembelajaranbasabali.kamus;
 
 import androidx.annotation.NonNull;
 
